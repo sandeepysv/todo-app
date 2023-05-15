@@ -1,0 +1,10 @@
+{
+    "HOSTNAME": "localhost",
+    "PORT": "8080",
+    "MONGO_URL": "mongodb://localhost/todo-app",
+    "JWT_SECRET": "t0d0aPp",
+    "REDIS": {
+        "HOST": "127.0.0.1",
+        "PORT": 6379
+    }
+}
